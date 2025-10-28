@@ -9,8 +9,8 @@
 }
 
 .main_box {
-    width: 1440px;
-    height: 700px;
+    /* width: 1440px; */
+    height: 100vh;
     background-color: hsl(225, 100%, 94%);
     margin: auto;
     display: flex;
